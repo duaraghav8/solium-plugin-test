@@ -1,0 +1,49 @@
+{
+  "_from": "solium-plugin-test",
+  "_id": "solium-plugin-test@0.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-YTS7Wx96sO/SOpwsy0OcySfKYFZGxxGlfMKs57JAO6fZuVi0aNW8Ar8Jr5gthFYXs5ori/W3Kq/Hh0OSWfCyDw==",
+  "_location": "/solium-plugin-test",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "solium-plugin-test",
+    "name": "solium-plugin-test",
+    "escapedName": "solium-plugin-test",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/solium-plugin-test/-/solium-plugin-test-0.0.0.tgz",
+  "_shasum": "10d25992dca5c34ce746ede4760af4012684cb05",
+  "_spec": "solium-plugin-test",
+  "_where": "/Users/raghavdua/Desktop/node-practice/test",
+  "author": {
+    "name": "Raghav Dua",
+    "email": "duaraghav8@gmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Solium Plugin ONLY FOR TESTING PURPOSE",
+  "keywords": [
+    "solium",
+    "soliumplugin",
+    "lint",
+    "solidity",
+    "blockchain",
+    "ethereum",
+    "ast"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "solium-plugin-test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
